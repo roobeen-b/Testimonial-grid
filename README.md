@@ -26,12 +26,12 @@ Users should be able to:
 
 ### Screenshot
 
-![](images\Testimonial-grid.png)
+![](https://github.com/roobeen-b/Testimonial-grid/blob/main/images/Testimonial-grid.png?raw=true)
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+<!-- - Solution URL: [solution](https://your-solution-url.com) -->
+- Live Site URL: [live site](https://roobeen-b.github.io/Testimonial-grid/)
 
 ## My process
 
