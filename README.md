@@ -26,15 +26,7 @@ Users should be able to:
 
 ### Screenshot
 
-<<<<<<< HEAD
-<<<<<<< HEAD
 ![](images\Testimonial-grid.png)
-=======
-![](https://roobeen-b.github.io/Testimonial-grid/images/bg-pattern-quotation.svg)
->>>>>>> 0fba10fcc0f6229354ae7e0fb081482156bbec7b
-=======
-![]()
->>>>>>> 64aa085ee816f27be7a7840e89309d9ba1c67a77
 
 ### Links
 
