@@ -26,7 +26,7 @@ Users should be able to:
 
 ### Screenshot
 
-![](./screenshot.jpg)
+![](https://roobeen-b.github.io/Testimonial-grid/images/bg-pattern-quotation.svg)
 
 ### Links
 
